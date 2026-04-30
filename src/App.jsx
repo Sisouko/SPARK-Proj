@@ -5,7 +5,7 @@ import { ChallengeCard } from './components/Challenge-card'
 function App() {
 
   return (
-    <main className="bg-[#1A1612] w-screen h-screen">
+    <main className="bg-[#1A1612] ">
     <Header/>
     <ChallengeCard/>
     </main>
